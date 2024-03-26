@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="basket">Корзина</string>
+    <string name="qr">Qr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Категория</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="price_hardcode">от 345 р</string>
+    <string name="pizza">Пицца</string>
+    <string name="combo">Комбо</string>
+    <string name="dessert">Дессерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="banner">banner</string>
+</resources>

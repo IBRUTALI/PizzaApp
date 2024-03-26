@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PizzaApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+            <!-- Primary brand color. -->
+            <item name="colorPrimary">@color/pink</item>
+            <item name="colorPrimaryVariant">@color/white</item>
+            <item name="colorOnPrimary">@color/white</item>
+            <!-- Secondary brand color. -->
+            <item name="colorSecondary">@color/white</item>
+            <item name="colorSecondaryVariant">@color/white</item>
+            <item name="colorOnSecondary">@color/white</item>
+            <!-- Customize your theme here. -->
+            <!-- Action bar. -->
+            <item name="android:windowNoTitle">true</item>
+            <item name="android:windowActionBar">false</item>
+            <!-- Status bar. -->
+            <item name="android:statusBarColor">@color/white</item>
+            <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
